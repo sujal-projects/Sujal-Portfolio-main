@@ -223,7 +223,7 @@ Email Me
 </h4>
 
 <p className="text-zinc-300">
-anshsahu.dev@gmail.com
+electronicsprojects33@gmail.com
 </p>
 
 </div>
@@ -245,7 +245,7 @@ Call Me
 </h4>
 
 <p className="text-zinc-300">
-+91 9109185454
++91 8720091829
 </p>
 
 </div>
